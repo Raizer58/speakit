@@ -7415,7 +7415,7 @@ body .main__education {
   body .main__education .education__block-spoken-words textarea {
     margin: 3% 0%;
     width: 40vw;
-    height: 5vw;
+    height: 60px;
     border: black solid 2px;
     background: rgba(255, 255, 255, 0.65);
     text-align: center;
@@ -7488,10 +7488,7 @@ body .main__education_close {
   body .wrapper {
     width: 1004px;
     margin-left: auto;
-    margin-right: auto; }
-  body .main__education .education__block-spoken-words textarea {
-    height: 6vw;
-    font-size: 2rem; } }
+    margin-right: auto; } }
 
 @media screen and (max-width: 1024px) {
   body main .main_background {
@@ -7508,9 +7505,6 @@ body .main__education_close {
     width: 748px; }
   body .main__education figure {
     margin-top: 10%; }
-  body .main__education .education__block-spoken-words textarea {
-    height: 6vw;
-    font-size: 2rem; }
   body .main__education .education__block-words .block-words__word {
     font-size: 1.4rem;
     width: 40%;
@@ -7537,7 +7531,8 @@ body .main__education_close {
   body .wrapper {
     width: 460px; }
   body .main__education .education__block-spoken-words textarea {
-    font-size: 1.6rem; }
+    font-size: 1.6rem;
+    height: 50px; }
   body .main__education .education__block-button {
     margin: 2% 0; }
     body .main__education .education__block-button button {
@@ -7575,8 +7570,7 @@ body .main__education_close {
       font-size: 20px;
       letter-spacing: 5px; }
   body .main__education .education__block-spoken-words textarea {
-    width: 300px;
-    height: 45px; }
+    width: 300px; }
   body .main__education .education__block-words {
     justify-content: center; }
     body .main__education .education__block-words .block-words__word {
